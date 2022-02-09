@@ -6,3 +6,4 @@ This repository contains all of the notes taken by [Ryan](https://github.com/Zen
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+  * [Day 3](/Week_1/Day_2)
