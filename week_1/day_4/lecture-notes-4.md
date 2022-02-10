@@ -11,4 +11,9 @@
  * You can even give functions more properties
  * Fundamentally a callback is a function that is called by another function
  * Pass in the function itself, the value of the function, not an invocation of it (i.e the return value)
- *
+ 
+## Anonymous Functions
+
+* forEach (elem => return);
+* CB = Callback
+* 
